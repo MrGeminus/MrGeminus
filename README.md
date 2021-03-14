@@ -2,7 +2,7 @@
 # Hi,
 
 
----
+
 ### CONTACT
 
 If you have any questions, suggestions, constructive critique or just want to get to know me, please feel free to contact me.
@@ -11,12 +11,11 @@ If you have any questions, suggestions, constructive critique or just want to ge
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MrGeminus?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FMrGeminus&screen_name=MrGeminus)
 
----
+
 ### SUPPORT
 
 Support me on 
 
----
 
 
 
