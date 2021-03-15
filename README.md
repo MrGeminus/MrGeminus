@@ -1,11 +1,11 @@
-![MrGeminus Banner](https://github.com/MrGeminus/MrGeminus/blob/main/MrGeminusGitHubBanner.svg)
+![MrGeminus Banner](https://github.com/MrGeminus/MrGeminus/blob/main/MrGeminusBanner.svg)
 # Hi,
 
 
 
 ### CONTACT
 
-If you have any questions, suggestions, constructive critique or just want to get to know me, please feel free to contact me.
+If you have any, suggestions, constructive critique or just want to get to know me, please feel free to contact me.
 
 [![Website](https://img.shields.io/website?label=mrgeminus.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mrgeminus.com)
 
