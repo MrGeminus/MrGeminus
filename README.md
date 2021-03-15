@@ -5,7 +5,7 @@
 
 ### CONTACT
 
-If you have any, suggestions, constructive critique or just want to get to know me, please feel free to contact me.
+If you have any questions, suggestions, constructive critiques or just want to say hi, please feel free to contact me.
 
 [![Website](https://img.shields.io/website?label=mrgeminus.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://mrgeminus.com)
 
@@ -14,7 +14,7 @@ If you have any, suggestions, constructive critique or just want to get to know 
 
 ### SUPPORT
 
-Support me on 
+In case you have the possibility and will to support my work, you can do that via one of the following ways:
 
 
 
