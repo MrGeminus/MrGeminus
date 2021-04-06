@@ -1,4 +1,4 @@
-![MrGeminus Banner](https://github.com/MrGeminus/MrGeminus/blob/main/MrGeminusBanner.svg)
+![MrGeminus Banner](https://github.com/MrGeminus/MrGeminus/blob/main/MrGeminusGitHubBanner.svg)
 # Hi,
 
 
