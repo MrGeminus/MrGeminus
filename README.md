@@ -1,9 +1,9 @@
 ![MrGeminus Banner](https://github.com/MrGeminus/MrGeminus/blob/main/MrGeminusGitHubBanner.svg)
-# Hi there,
+# Hi there :wave:
 
 
 thanks for stopping by. My name is Uroš and I am a self-taught web developer from Serbia. I enjoy making websites and some funny little games with javascript,
-learning new technologies and I constantly try to improve my self. :)
+learning new technologies and I constantly try to improve my self. :nerd_face:
 
 <img height="175px" src="https://github-readme-stats.vercel.app/api?username=mrgeminus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=0&hide_border=true"/> <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgeminus&layout=compact&langs_count=9&border_radius=0&hide_border=true&theme=tokyonight&card_width=300"/>
 
