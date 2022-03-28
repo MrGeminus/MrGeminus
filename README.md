@@ -72,8 +72,8 @@ If you have any suggestions, criticism, or just want to say hi, then feel free t
 [![Xing](./icons/xing-dark.svg)](https://www.xing.com/profile/Uros_Tomic3/cv#gh-light-mode-only)
 [![Xing](./icons/xing-light.svg)](https://www.xing.com/profile/Uros_Tomic3/cv#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![YouTube](./icons/youtube-dark.svg)](https://www.youtube.com/channel/UC4QYa0Pb5OCidee70BWbtAA#gh-light-mode-only)   
-[![YouTube](./icons/youtube-light.svg)](https://www.youtube.com/channel/UC4QYa0Pb5OCidee70BWbtAA#gh-dark-mode-only) 
+[![YouTube](./icons/youtube-dark.svg)](https://www.youtube.com/channel/UC4QYa0Pb5OCidee70BWbtAA#gh-light-mode-only)
+[![YouTube](./icons/youtube-light.svg)](https://www.youtube.com/channel/UC4QYa0Pb5OCidee70BWbtAA#gh-dark-mode-only)
 
 
 ## SUPPORT
