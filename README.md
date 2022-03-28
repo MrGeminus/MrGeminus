@@ -52,15 +52,17 @@ If you have any suggestions, criticism, or just want to say hi, then feel free t
 
 
   
-[![](<img height="25" width="25" src="https://raw.githubusercontent.com/iconic/open-iconic/1d1e8885c5031874b32f4e480e371ce2b1c24144/svg/envelope-closed.svg" alt="urostomic@gmail.com"/>)][Email] 
-[![LinkedIn](<img height="25" width="25" src="https://raw.githubusercontent.com/MrGeminus/MrGeminus/8da2fd58de68758065830265b2b0864f8248d9bb/icons/linkedin-light.svg" alt="LinkedIn profile"/>)][LinkedIn]
-[![LinkedIn](<img height="25" width="25" src="https://raw.githubusercontent.com/MrGeminus/MrGeminus/8da2fd58de68758065830265b2b0864f8248d9bb/icons/linkedin-dark.svg#gh-dark-mode-only" alt="LinkedIn profile"/>)][LinkedIn]
+[![](./icons/globe-dark.svg)](www.mrgeminus.com#gh-light-mode-only)
+[![](./icons/globe-light.svg)](www.mrgeminus.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Xing](<img height="25" width="25" src="https://raw.githubusercontent.com/MrGeminus/MrGeminus/8da2fd58de68758065830265b2b0864f8248d9bb/icons/xing-light.svg#gh-light-mode-only" alt="Xing profile"/>)][Xing]
-[![Xing](<img height="25" width="25" src="https://raw.githubusercontent.com/MrGeminus/MrGeminus/8da2fd58de68758065830265b2b0864f8248d9bb/icons/xing-dark.svg#gh-dark-mode-only" alt="Xing profile"/>)][Xing]
+[![LinkedIn](./icons/linkedin-dark.svg)](https://www.linkedin.com/in/mrgeminus/#gh-light-mode-only)
+[![LinkedIn](./icons/linkedin-light.svg)](https://www.linkedin.com/in/mrgeminus/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![YouTube](<img height="25" width="25" src="https://raw.githubusercontent.com/MrGeminus/MrGeminus/8da2fd58de68758065830265b2b0864f8248d9bb/icons/youtube-light.svg#gh-light-mode-only" alt="YouTube channel"/>)][YouTube]   
-[![YouTube](<img height="25" width="25" src="https://raw.githubusercontent.com/MrGeminus/MrGeminus/8da2fd58de68758065830265b2b0864f8248d9bb/icons/youtube-dark.svg#gh-dark-mode-only" alt="YouTube channel"/>)][YouTube] 
+[![Xing](./icons/xing-dark.svg")](https://www.xing.com/profile/Uros_Tomic3/cv#gh-light-mode-only)
+[![Xing](./icons/xing-light.svg)](https://www.xing.com/profile/Uros_Tomic3/cv#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![YouTube](./icons/youtube-dark.svg/>)](https://www.youtube.com#gh-light-mode-only)   
+[![YouTube](./icons/youtube-light.svg/>)](https://www.youtube.com#gh-dark-mode-only) 
 
 
 ## SUPPORT
@@ -68,8 +70,3 @@ If you have any suggestions, criticism, or just want to say hi, then feel free t
 If you would like to support me and my work, you are welcome to do so in one of the following ways:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy_Me_A_Coffee-%231565C0?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/mrgeminus)
-
-[Email]: mailto
-[LinkedIn]: https://www.linkedin.com/in/mrgeminus/
-[Xing]: https://www.xing.com/profile/Uros_Tomic3/cv
-[YouTube]: https://www.youtube.com/
