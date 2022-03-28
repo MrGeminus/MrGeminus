@@ -2,17 +2,22 @@
 # Hi there :wave:
 
 
-thanks for stopping by. My name is Uroš and I am a self-taught web developer from Serbia. I enjoy making websites and some funny little games with javascript,
-learning new technologies and I constantly try to improve my self. :nerd_face:
+thanks for stopping by. My name is Uroš and I am a self-taught web developer from Serbia.
 
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=mrgeminus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=0&hide_border=true"/> <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgeminus&layout=compact&langs_count=9&border_radius=0&hide_border=true&theme=tokyonight&card_width=300"/>
+## A little bit about me
+
+These are the technologies and tools I have worked with so far:
+
 
 <div style="display:inline_block">
-<img width="50px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg'>
   
-<img width="50px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg'>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   
 <img width="50px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg'>  
+  
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />        
   
 <img width="50px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'>
   
@@ -22,26 +27,36 @@ learning new technologies and I constantly try to improve my self. :nerd_face:
   
 <img width="50px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg'>
   
-<img width="50px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg'>
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+  
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
+  
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
+  
 </div>
+
+###
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=mrgeminus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=0&hide_border=true"/> <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgeminus&layout=compact&langs_count=9&border_radius=0&hide_border=true&theme=tokyonight&card_width=305"/>
 
 ####
 <a href="https://github.com/MrGeminus/todo-app-main"><img height="143px" src='https://github-readme-stats.vercel.app/api/pin/?username=mrgeminus&repo=todo-app-main&theme=tokyonight&hide_border=true'/></a>
 <a href="https://github.com/MrGeminus/calculator-app-main"><img height="143px" src='https://github-readme-stats.vercel.app/api/pin/?username=mrgeminus&repo=calculator-app-main&theme=tokyonight&hide_border=true'/></a>
 
-#### CONTACT
+## WAYS TO CONTACT ME
 
-If you have any questions, suggestions, constructive critiques or just want to say hi, then please feel free to contact me.
+If you have any suggestions, criticism, or just want to say hi, then feel free to do so.
 
-[![Website](https://img.shields.io/badge/-www.mrgeminus.com-%231565C0?style=for-the-badge)](https://mrgeminus.com)
-![Twitter Follow](https://img.shields.io/twitter/follow/MrGeminus?color=%231565C0&label=%40MrGeminus&logo=twitter&logoColor=white&style=for-the-badge)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4QYa0Pb5OCidee70BWbtAA?color=1565C0&label=MrGeminus&logo=youtube&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%231565C0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrgeminus/)
-[![Xing](https://img.shields.io/badge/-Xing-%231565C0?style=for-the-badge&logo=xing&logoColor=white)](https://www.xing.com/profile/Uros_Tomic3/cv)
-[![Discord](https://img.shields.io/badge/-Discord-%231565C0?style=for-the-badge&logo=discord&logoColor=white)]()
-[![E-Mail](https://img.shields.io/badge/-EMail-%231565C0?style=for-the-badge&logo=gmail&logoColor=white)]()
+<a href="urostomic94@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMail-%231565C0?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/mrgeminus/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231565C0?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.xing.com/profile/Uros_Tomic3/cv" target="_blank"><img src="https://img.shields.io/badge/Xing-%231565C0?style=for-the-badge&logo=xing&logoColor=white"></a>
 
+## SUPPORT
 
-#### SUPPORT
+If you would like to support me and my work, you are welcome to do so in one of the following ways:
 
-In case you have the possibility and will to support my work, you can do that via one of the following ways:
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy_Me_A_Coffee-%231565C0?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/mrgeminus)
+
