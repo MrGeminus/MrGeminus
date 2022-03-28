@@ -9,33 +9,33 @@ thanks for stopping by. My name is Uroš and I am a self-taught web developer fr
 These are the technologies and tools I have worked with so far:
 
 
-<div style="display:inline_block">
+<div>
   
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   
-<img width="50px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg'>  
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg'>  
   
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />        
+<img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />        
   
-<img width="50px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'>
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'>
   
-<img width="50px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
   
-<img width="50px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
   
-<img width="50px" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg'>
+<img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg'>
   
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+<img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
+<img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
   
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
+<img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
   
 </div>
 
@@ -50,9 +50,12 @@ These are the technologies and tools I have worked with so far:
 
 If you have any suggestions, criticism, or just want to say hi, then feel free to do so.
 
-<a href="urostomic94@gmail.com" target="_blank"><img src="https://img.shields.io/badge/EMail-%231565C0?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/mrgeminus/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231565C0?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.xing.com/profile/Uros_Tomic3/cv" target="_blank"><img src="https://img.shields.io/badge/Xing-%231565C0?style=for-the-badge&logo=xing&logoColor=white"></a>
+
+  
+[<img height="25" width="25" src="https://raw.githubusercontent.com/iconic/open-iconic/1d1e8885c5031874b32f4e480e371ce2b1c24144/svg/envelope-closed.svg" alt="urostomic@gmail.com"/>][Email] 
+[<img height="25" width="25" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" alt="LinkedIn"/>][LinkedIn]
+[<img height="25" width="25" src="https://unpkg.com/simple-icons@v6/icons/xing.svg" alt="Xing"/>][Xing]  
+
 
 ## SUPPORT
 
@@ -60,3 +63,6 @@ If you would like to support me and my work, you are welcome to do so in one of 
 
 [![Buy Me A Coffee](https://img.shields.io/badge/-Buy_Me_A_Coffee-%231565C0?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/mrgeminus)
 
+[Email]: mailto
+[LinkedIn]: https://www.linkedin.com/in/mrgeminus/
+[Xing]: https://www.xing.com/profile/Uros_Tomic3/cv
