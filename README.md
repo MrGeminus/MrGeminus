@@ -1,4 +1,4 @@
-![MrGeminus Banner](https://github.com/MrGeminus/MrGeminus/blob/main/MrGeminusGitHubBanner.svg)
+![MrGeminus Banner](./images/banner.svg)
 # Hi there :wave:
 
 
@@ -52,17 +52,17 @@ If you have any suggestions, criticism, or just want to say hi, then feel free t
 
 
   
-[![](./icons/globe-dark.svg)](www.mrgeminus.com#gh-light-mode-only)
-[![](./icons/globe-light.svg)](www.mrgeminus.com#gh-dark-mode-only)
+[![Website](./icons/globe-dark.svg)](www.mrgeminus.com#gh-light-mode-only)
+[![Website](./icons/globe-light.svg)](www.mrgeminus.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![LinkedIn](./icons/linkedin-dark.svg)](https://www.linkedin.com/in/mrgeminus/#gh-light-mode-only)
 [![LinkedIn](./icons/linkedin-light.svg)](https://www.linkedin.com/in/mrgeminus/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![Xing](./icons/xing-dark.svg")](https://www.xing.com/profile/Uros_Tomic3/cv#gh-light-mode-only)
+[![Xing](./icons/xing-dark.svg)](https://www.xing.com/profile/Uros_Tomic3/cv#gh-light-mode-only)
 [![Xing](./icons/xing-light.svg)](https://www.xing.com/profile/Uros_Tomic3/cv#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![YouTube](./icons/youtube-dark.svg/>)](https://www.youtube.com#gh-light-mode-only)   
-[![YouTube](./icons/youtube-light.svg/>)](https://www.youtube.com#gh-dark-mode-only) 
+[![YouTube](./icons/youtube-dark.svg)](https://www.youtube.com#gh-light-mode-only)   
+[![YouTube](./icons/youtube-light.svg)](https://www.youtube.com#gh-dark-mode-only) 
 
 
 ## SUPPORT
