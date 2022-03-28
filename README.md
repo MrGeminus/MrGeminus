@@ -12,7 +12,7 @@
 
 thanks for stopping by! My name is Uroš and I'm a self-taught web developer from Serbia. I love exploring new tech stacks and leveraging them to build cool stuff.
 
-## :hammer_and_wrench: Technologies and tools
+## :hammer_and_wrench: Technologies & Tools
 
 These are technologies and tools I have worked with so far:
 
@@ -47,7 +47,9 @@ These are technologies and tools I have worked with so far:
 
 ## :bar_chart: GitHub Stats
 
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=mrgeminus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=0&hide_border=true"/> <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgeminus&layout=compact&langs_count=9&border_radius=0&hide_border=true&theme=tokyonight&card_width=313"/>
+Stats of which I'm most proud.
+
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=mrgeminus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=0&hide_border=true"/> <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgeminus&layout=compact&langs_count=9&border_radius=0&hide_border=true&theme=tokyonight&card_width=319"/>
 
 ## :clipboard: ToDo List 2022
 
@@ -62,7 +64,7 @@ I have a lot of plans for 2022, but some of the most notable would be:
 
 ## :mailbox: Contact
 
-Feel free to contact me should you have any questions, suggestions, or constructive criticism.
+I would be glad to hear from you. Please feel free to contact me using one of the methods below.
   
 [![Website](./icons/globe-dark.svg)](www.mrgeminus.com#gh-light-mode-only)
 [![Website](./icons/globe-light.svg)](www.mrgeminus.com#gh-dark-mode-only)
@@ -76,7 +78,7 @@ Feel free to contact me should you have any questions, suggestions, or construct
 [![YouTube](./icons/youtube-dark.svg)](https://www.youtube.com/channel/UC4QYa0Pb5OCidee70BWbtAA#gh-light-mode-only)
 [![YouTube](./icons/youtube-light.svg)](https://www.youtube.com/channel/UC4QYa0Pb5OCidee70BWbtAA#gh-dark-mode-only)
 
-## :gift: Support
+## :heartbeat: Support
 
 Should you have some spare money and the desire to support me and my work, you can buy me coffee or beer.
 
