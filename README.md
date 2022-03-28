@@ -1,13 +1,20 @@
 ![MrGeminus Banner](./images/banner.svg)
+
+<div style="display:flex; align-items:center">
+
+![GitHub followers](https://img.shields.io/github/followers/mrgeminus?logo=GitHub&style=for-the-badge)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC4QYa0Pb5OCidee70BWbtAA?color=blue&logo=YouTube&style=for-the-badge)
+![Twitter Followers](https://img.shields.io/twitter/follow/mrgeminus?color=blue&label=FOLLOWERS&logo=Twitter&style=for-the-badge)
+
+<div>
+
+
 # Hi there :wave:
 
 
-thanks for stopping by. My name is Uroš and I am a self-taught web developer from Serbia.
-
-## A little bit about me
+thanks for stopping by. My name is Uroš, I am a self-taught web developer from Novi Sad, Serbia.
 
 These are the technologies and tools I have worked with so far:
-
 
 <div>
   
@@ -39,9 +46,8 @@ These are the technologies and tools I have worked with so far:
   
 </div>
 
----
 
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=mrgeminus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=0&hide_border=true"/> <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgeminus&layout=compact&langs_count=9&border_radius=0&hide_border=true&theme=tokyonight&card_width=307"/>
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=mrgeminus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=0&hide_border=true"/> <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgeminus&layout=compact&langs_count=9&border_radius=0&hide_border=true&theme=tokyonight&card_width=309"/>
 
 ---
 
@@ -51,17 +57,15 @@ These are the technologies and tools I have worked with so far:
 
 <!-- YOUTUBE-VIDEO-LIST:END -->
 
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
 
-## WAYS TO CONTACT ME
-
-If you have any suggestions, criticism, or just want to say hi, then feel free to do so.
-
-
+### Ways to contact me
   
 [![Website](./icons/globe-dark.svg)](www.mrgeminus.com#gh-light-mode-only)
 [![Website](./icons/globe-light.svg)](www.mrgeminus.com#gh-dark-mode-only)
