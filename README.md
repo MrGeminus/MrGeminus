@@ -52,15 +52,15 @@ If you have any suggestions, criticism, or just want to say hi, then feel free t
 
 
   
-[<img height="25" width="25" src="https://raw.githubusercontent.com/iconic/open-iconic/1d1e8885c5031874b32f4e480e371ce2b1c24144/svg/envelope-closed.svg" alt="urostomic@gmail.com"/>][Email] 
-[<img height="25" width="25" src="https://raw.githubusercontent.com/MrGeminus/MrGeminus/8da2fd58de68758065830265b2b0864f8248d9bb/icons/linkedin-light.svg" alt="LinkedIn profile"/>][LinkedIn]
-[<img height="25" width="25" src="https://raw.githubusercontent.com/MrGeminus/MrGeminus/8da2fd58de68758065830265b2b0864f8248d9bb/icons/linkedin-dark.svg#gh-dark-mode-only" alt="LinkedIn profile"/>][LinkedIn]
+[![](<img height="25" width="25" src="https://raw.githubusercontent.com/iconic/open-iconic/1d1e8885c5031874b32f4e480e371ce2b1c24144/svg/envelope-closed.svg" alt="urostomic@gmail.com"/>)][Email] 
+[![LinkedIn](<img height="25" width="25" src="https://raw.githubusercontent.com/MrGeminus/MrGeminus/8da2fd58de68758065830265b2b0864f8248d9bb/icons/linkedin-light.svg" alt="LinkedIn profile"/>)][LinkedIn]
+[![LinkedIn](<img height="25" width="25" src="https://raw.githubusercontent.com/MrGeminus/MrGeminus/8da2fd58de68758065830265b2b0864f8248d9bb/icons/linkedin-dark.svg#gh-dark-mode-only" alt="LinkedIn profile"/>)][LinkedIn]
 &nbsp;&nbsp;
-[<img height="25" width="25" src="https://raw.githubusercontent.com/MrGeminus/MrGeminus/8da2fd58de68758065830265b2b0864f8248d9bb/icons/xing-light.svg#gh-light-mode-only" alt="Xing profile"/>][Xing]
-[<img height="25" width="25" src="https://raw.githubusercontent.com/MrGeminus/MrGeminus/8da2fd58de68758065830265b2b0864f8248d9bb/icons/xing-dark.svg#gh-dark-mode-only" alt="Xing profile"/>][Xing]
+[![Xing](<img height="25" width="25" src="https://raw.githubusercontent.com/MrGeminus/MrGeminus/8da2fd58de68758065830265b2b0864f8248d9bb/icons/xing-light.svg#gh-light-mode-only" alt="Xing profile"/>)][Xing]
+[![Xing](<img height="25" width="25" src="https://raw.githubusercontent.com/MrGeminus/MrGeminus/8da2fd58de68758065830265b2b0864f8248d9bb/icons/xing-dark.svg#gh-dark-mode-only" alt="Xing profile"/>)][Xing]
 &nbsp;&nbsp;
-[<img height="25" width="25" src="https://raw.githubusercontent.com/MrGeminus/MrGeminus/8da2fd58de68758065830265b2b0864f8248d9bb/icons/youtube-light.svg#gh-light-mode-only" alt="YouTube channel"/>][YouTube]   
-[<img height="25" width="25" src="https://raw.githubusercontent.com/MrGeminus/MrGeminus/8da2fd58de68758065830265b2b0864f8248d9bb/icons/youtube-dark.svg#gh-dark-mode-only" alt="YouTube channel"/>][YouTube] 
+[![YouTube](<img height="25" width="25" src="https://raw.githubusercontent.com/MrGeminus/MrGeminus/8da2fd58de68758065830265b2b0864f8248d9bb/icons/youtube-light.svg#gh-light-mode-only" alt="YouTube channel"/>)][YouTube]   
+[![YouTube](<img height="25" width="25" src="https://raw.githubusercontent.com/MrGeminus/MrGeminus/8da2fd58de68758065830265b2b0864f8248d9bb/icons/youtube-dark.svg#gh-dark-mode-only" alt="YouTube channel"/>)][YouTube] 
 
 
 ## SUPPORT
