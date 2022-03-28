@@ -12,39 +12,50 @@ These are the technologies and tools I have worked with so far:
 <div>
   
 <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-
+&nbsp;&nbsp;
 <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  
+&nbsp;&nbsp;  
 <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg'>  
-  
+&nbsp;&nbsp;  
 <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />        
-  
+&nbsp;&nbsp;  
 <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg'>
-  
+&nbsp;&nbsp;  
 <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
-  
+&nbsp;&nbsp;  
 <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
-  
+&nbsp;&nbsp;  
 <img width="25" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg'>
-  
+&nbsp;&nbsp;  
 <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-
+&nbsp;&nbsp;
 <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  
+&nbsp;&nbsp;  
 <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-  
+&nbsp;&nbsp;  
 <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" /> 
-  
+&nbsp;&nbsp;  
 <img width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
   
 </div>
 
-###
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=mrgeminus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=0&hide_border=true"/> <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgeminus&layout=compact&langs_count=9&border_radius=0&hide_border=true&theme=tokyonight&card_width=305"/>
+---
 
-####
-<a href="https://github.com/MrGeminus/todo-app-main"><img height="143px" src='https://github-readme-stats.vercel.app/api/pin/?username=mrgeminus&repo=todo-app-main&theme=tokyonight&hide_border=true'/></a>
-<a href="https://github.com/MrGeminus/calculator-app-main"><img height="143px" src='https://github-readme-stats.vercel.app/api/pin/?username=mrgeminus&repo=calculator-app-main&theme=tokyonight&hide_border=true'/></a>
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=mrgeminus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=0&hide_border=true"/> <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgeminus&layout=compact&langs_count=9&border_radius=0&hide_border=true&theme=tokyonight&card_width=307"/>
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEO-LIST:START -->
+
+<!-- YOUTUBE-VIDEO-LIST:END -->
+
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 ## WAYS TO CONTACT ME
 
@@ -61,8 +72,8 @@ If you have any suggestions, criticism, or just want to say hi, then feel free t
 [![Xing](./icons/xing-dark.svg)](https://www.xing.com/profile/Uros_Tomic3/cv#gh-light-mode-only)
 [![Xing](./icons/xing-light.svg)](https://www.xing.com/profile/Uros_Tomic3/cv#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![YouTube](./icons/youtube-dark.svg)](https://www.youtube.com#gh-light-mode-only)   
-[![YouTube](./icons/youtube-light.svg)](https://www.youtube.com#gh-dark-mode-only) 
+[![YouTube](./icons/youtube-dark.svg)](https://www.youtube.com/channel/UC4QYa0Pb5OCidee70BWbtAA#gh-light-mode-only)   
+[![YouTube](./icons/youtube-light.svg)](https://www.youtube.com/channel/UC4QYa0Pb5OCidee70BWbtAA#gh-dark-mode-only) 
 
 
 ## SUPPORT
