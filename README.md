@@ -54,23 +54,43 @@ These are technologies and tools I have worked with so far:
 <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />  
 </div>
 
-
 ## :bar_chart: GitHub Stats
 
 Stats of which I'm most proud.
 
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=mrgeminus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=0&hide_border=true"/> <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgeminus&layout=compact&langs_count=9&border_radius=0&hide_border=true&theme=tokyonight&card_width=319"/>
+<picture>
+<source 
+srcset="https://github-readme-stats.vercel.app/api?username=mrgeminus&show_icons=true&theme=mrgeminus_dark&include_all_commits=true&count_private=true&border_radius=0&hide_border=true"
+  media="(prefers-color-scheme: dark)"
+  />
+<source
+srcset="https://github-readme-stats.vercel.app/api?username=mrgeminus&show_icons=true&theme=mrgeminus_light&include_all_commits=true&count_private=true&border_radius=0&hide_border=true"
+media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=mrgeminus&show_icons=true&include_all_commits=true&count_private=true&border_radius=0&hide_border=true" >
+</picture>
+<picture>
+<source 
+srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgeminus&layout=compact&langs_count=9&border_radius=0&hide_border=true&theme=mrgeminus_dark&card_width=325"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgeminus&layout=compact&langs_count=9&border_radius=0&hide_border=true&theme=mrgeminus_light&card_width=325"
+media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgeminus&layout=compact&langs_count=9&border_radius=0&hide_border=true&card_width=325" >
+</picture>
 
 ## :clipboard: ToDo List 2022
 
 I have a lot of plans for 2022, but some of the most notable would be:
 
-- [ ] Update old repositories
-- [ ] Redesign the old portfolio website
-- [ ] Write a few blogs and make a few youtube videos 
-- [ ] Learn GraphQL, Docker, and potentially Laravel
-- [ ] Get better at what I already know
-- [ ] Contribute to some open-source projects
+- [  ] Update old repositories
+- [  ] Redesign the old portfolio website
+- [  ] Write a few blogs and make a few youtube videos 
+- [  ] Learn GraphQL, Docker, and potentially Laravel
+- [✔️] Get better at what I already know
+- [✔️] Contribute to some open-source projects
 
 ## :mailbox: Contact
 
