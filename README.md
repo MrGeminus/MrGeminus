@@ -10,7 +10,7 @@
 # Hi there :wave:
 
 
-thanks for stopping by! My name is Uroš and I'm a self-taught web developer from Serbia. I love exploring new tech stacks and leveraging them to build cool stuff.
+thanks for stopping by! My name is Uroš. I'm a passionate web developer who loves exploring new tech stacks and leveraging them to build cool stuff.
 
 ## :hammer_and_wrench: Technologies & Tools
 
