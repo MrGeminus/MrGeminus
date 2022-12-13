@@ -60,25 +60,25 @@ Stats of which I'm most proud.
 
 <picture>
 <source 
-srcset="https://github-readme-stats.vercel.app/api?username=mrgeminus&show_icons=true&title_color=C9D1D9&icon_color=1565C0&ring_color=1565C0&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&include_all_commits=true&count_private=true&border_radius=0&hide_border=true"
+srcset="https://github-readme-stats.vercel.app/api?username=mrgeminus&show_icons=true&custom_title=MrGeminus's GitHub Stats&title_color=C9D1D9&icon_color=1565C0&ring_color=1565C0&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&include_all_commits=true&count_private=true&border_radius=0"
   media="(prefers-color-scheme: dark)"
-  />
+  >
 <source
-srcset="https://github-readme-stats.vercel.app/api?username=mrgeminus&show_icons=true&title_color=24292F&icon_color=1565C0&ring_color=1565C0&text_color=24292F&bg_color=FFFFFF&border_color=D0D7DE&include_all_commits=true&count_private=true&border_radius=0&hide_border=true"
+srcset="https://github-readme-stats.vercel.app/api?username=mrgeminus&show_icons=true&custom_title=MrGeminus's GitHub Stats&title_color=24292F&icon_color=1565C0&ring_color=1565C0&text_color=24292F&bg_color=FFFFFF&border_color=D0D7DE&include_all_commits=true&count_private=true&border_radius=0"
 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=mrgeminus&show_icons=true&include_all_commits=true&count_private=true&border_radius=0&hide_border=true" >
+>
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=mrgeminus&show_icons=true&custom_title=MrGeminus's GitHub Stats&include_all_commits=true&count_private=true&border_radius=0" >
 </picture>
 <picture>
 <source 
-srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgeminus&layout=compact&langs_count=9&border_radius=0&hide_border=true&title_color=C9D1D9&icon_color=1565C0&text_color=C9D1D9&bg_color=FFFFFF&border_color=30363D&card_width=379"
+srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgeminus&layout=compact&langs_count=9&border_radius=0&title_color=C9D1D9&icon_color=1565C0&text_color=C9D1D9&bg_color=FFFFFF&border_color=30363D&card_width=379"
   media="(prefers-color-scheme: dark)"
-/>
+>
 <source
-srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgeminus&layout=compact&langs_count=9&border_radius=0&hide_border=true&ttitle_color=24292F&icon_color=1565C0&text_color=24292F&bg_color=FFFFFF&border_color=D0D7DE&card_width=379"
+srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgeminus&layout=compact&langs_count=9&border_radius=0&title_color=24292F&icon_color=1565C0&text_color=24292F&bg_color=FFFFFF&border_color=D0D7DE&card_width=379"
 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgeminus&layout=compact&langs_count=9&border_radius=0&hide_border=true&card_width=379" >
+>
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrgeminus&layout=compact&langs_count=9&border_radius=0&card_width=379" >
 </picture>
 
 ## :clipboard: ToDo List 2022
