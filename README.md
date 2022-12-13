@@ -33,7 +33,17 @@ These are technologies and tools I have worked with so far:
 &nbsp;&nbsp;  
 <img width="25" height="25"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg'>
 &nbsp;&nbsp;  
+<img width="25" height="25"  src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg'>
+&nbsp;&nbsp;  
 <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+&nbsp;&nbsp;
+<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" />
+&nbsp;&nbsp;
+<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+&nbsp;&nbsp;
+<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+&nbsp;&nbsp;
+<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 &nbsp;&nbsp;
 <img width="30" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 &nbsp;&nbsp;  
