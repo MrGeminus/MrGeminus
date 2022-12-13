@@ -96,11 +96,11 @@ I have a lot of plans for 2022, but some of the most notable would be:
 
 I would be glad to hear from you. Please feel free to contact me using one of the methods below.
   
-[![Website](./icons/globe-dark.svg)](www.mrgeminus.com#gh-light-mode-only)
-[![Website](./icons/globe-light.svg)](www.mrgeminus.com#gh-dark-mode-only)
+[![Website](./icons/globe-dark.svg)](https://www.mrgeminus.com#gh-light-mode-only)
+[![Website](./icons/globe-light.svg)](https://www.mrgeminus.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![E-mail](./icons/envelope-dark.svg)](contact@mrgeminus.com#gh-light-mode-only)
-[![E-mail](./icons/envelope-light.svg)](contact@mrgeminus.com#gh-dark-mode-only)
+[![E-mail](./icons/envelope-dark.svg#gh-light-mode-only)](mailto:contact@mrgeminus.com)
+[![E-mail](./icons/envelope-light.svg#gh-dark-mode-only)](mailto:contact@mrgeminus.com)
 &nbsp;&nbsp;
 [![LinkedIn](./icons/linkedin-dark.svg)](https://www.linkedin.com/in/mrgeminus/#gh-light-mode-only)
 [![LinkedIn](./icons/linkedin-light.svg)](https://www.linkedin.com/in/mrgeminus/#gh-dark-mode-only)
