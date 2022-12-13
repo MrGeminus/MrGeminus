@@ -85,10 +85,10 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 
 I have a lot of plans for 2022, but some of the most notable would be:
 
-- [  ] Update old repositories
-- [  ] Redesign the old portfolio website
-- [  ] Write a few blogs and make a few youtube videos 
-- [  ] Learn GraphQL, Docker, and potentially Laravel
+- [   ] Update old repositories
+- [   ] Redesign the old portfolio website
+- [   ] Write a few blogs and make a few youtube videos 
+- [   ] Learn GraphQL, Docker, and potentially Laravel
 - [✔️] Get better at what I already know
 - [✔️] Contribute to some open-source projects
 
@@ -99,8 +99,8 @@ I would be glad to hear from you. Please feel free to contact me using one of th
 [![Website](./icons/globe-dark.svg)](https://www.mrgeminus.com#gh-light-mode-only)
 [![Website](./icons/globe-light.svg)](https://www.mrgeminus.com#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![E-mail](./icons/envelope-dark.svg#gh-light-mode-only)](mailto:contact@mrgeminus.com)
-[![E-mail](./icons/envelope-light.svg#gh-dark-mode-only)](mailto:contact@mrgeminus.com)
+[![E-mail](./icons/envelope-dark.svg)](mailto:contact@mrgeminus.com#gh-light-mode-only)
+[![E-mail](./icons/envelope-light.svg)](mailto:contact@mrgeminus.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![LinkedIn](./icons/linkedin-dark.svg)](https://www.linkedin.com/in/mrgeminus/#gh-light-mode-only)
 [![LinkedIn](./icons/linkedin-light.svg)](https://www.linkedin.com/in/mrgeminus/#gh-dark-mode-only)
