@@ -41,7 +41,7 @@ These are technologies and tools I have worked with so far:
 &nbsp;&nbsp;
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 &nbsp;&nbsp;
-<img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+<img width="30" height="30" style="background-color: white" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 &nbsp;&nbsp;
 <img width="30" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 &nbsp;&nbsp;
