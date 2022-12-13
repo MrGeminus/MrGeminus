@@ -99,14 +99,26 @@ I would be glad to hear from you. Please feel free to contact me using one of th
 [![Website](./icons/globe-dark.svg)](www.mrgeminus.com#gh-light-mode-only)
 [![Website](./icons/globe-light.svg)](www.mrgeminus.com#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![E-mail](./icons/envelope-dark.svg)](contact@mrgeminus.com#gh-light-mode-only)
+[![E-mail](./icons/envelope-light.svg)](contact@mrgeminus.com#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![LinkedIn](./icons/linkedin-dark.svg)](https://www.linkedin.com/in/mrgeminus/#gh-light-mode-only)
 [![LinkedIn](./icons/linkedin-light.svg)](https://www.linkedin.com/in/mrgeminus/#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![Xing](./icons/xing-dark.svg)](https://www.xing.com/profile/Uros_Tomic3/cv#gh-light-mode-only)
 [![Xing](./icons/xing-light.svg)](https://www.xing.com/profile/Uros_Tomic3/cv#gh-dark-mode-only)
 &nbsp;&nbsp;
+[![DEV](./icons/dev-dark.svg)](https://dev.to/mrgeminus#gh-light-mode-only)
+[![DEV](./icons/dev-light.svg)](https://dev.to/mrgeminus#gh-dark-mode-only)
+&nbsp;&nbsp;
 [![YouTube](./icons/youtube-dark.svg)](https://www.youtube.com/channel/UC4QYa0Pb5OCidee70BWbtAA#gh-light-mode-only)
 [![YouTube](./icons/youtube-light.svg)](https://www.youtube.com/channel/UC4QYa0Pb5OCidee70BWbtAA#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Twitter](./icons/twitter-dark.svg)](https://twitter.com/MrGeminus#gh-light-mode-only)
+[![Twitter](./icons/twitter-light.svg)](https://twitter.com/MrGeminus#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![Instagram](./icons/instagram-dark.svg)](https://www.instagram.com/mr.geminus/#gh-light-mode-only)
+[![Instagram](./icons/instagram-light.svg)](https://www.instagram.com/mr.geminus/#gh-dark-mode-only)
 
 ## :heartbeat: Support
 
