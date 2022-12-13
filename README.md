@@ -85,12 +85,12 @@ media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 
 I have a lot of plans for 2022, but some of the most notable would be:
 
-- [   ] Update old repositories
-- [   ] Redesign the old portfolio website
-- [   ] Write a few blogs and make a few youtube videos 
-- [   ] Learn GraphQL, Docker, and potentially Laravel
-- [✔️] Get better at what I already know
-- [✔️] Contribute to some open-source projects
+- Update old repositories
+- Redesign the old portfolio website
+- Write a few blogs and make a few youtube videos 
+- Learn GraphQL, Docker, and potentially Laravel
+- Get better at what I already know ✔️
+- Contribute to some open-source projects ✔️
 
 ## :mailbox: Contact
 
