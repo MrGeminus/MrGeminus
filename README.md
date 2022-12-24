@@ -56,10 +56,14 @@ These are technologies and tools I have worked with so far:
 
 Stats of which I'm most proud.
 
+<div>
+
 [![MrGeminus's GitHub Stats Dark Mode](https://github-readme-stats.vercel.app/api?username=MrGeminus&show_icons=true&title_color=C9D1D9&icon_color=1565C0&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&ring_color=1565C0&include_all_commits=true&count_private=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![MrGeminus's GitHub Stats Light Mode](https://github-readme-stats.vercel.app/api?username=MrGeminus&show_icons=true&title_color=24292F&icon_color=1565C0&text_color=24292F&bg_color=FFFFFF&border_color=D0D7DE&ring_color=1565C0&include_all_commits=true&count_private=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 [![Language Card Dark Mode](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGeminus&layout=compact&langs_count=9&card_width=379&title_color=C9D1D9&icon_color=1565C0&text_color=C9D1D9&bg_color=0D1117&border_color=30363D#gh-dark-mode-only")](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Language Card Light Mode](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGeminus&layout=compact&langs_count=9&card_width=379&title_color=24292F&icon_color=1565C0&text_color=24292F&bg_color=FFFFFF&border_color=D0D7DE#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+</div>
 
 ## :clipboard: ToDo List 2022
 
