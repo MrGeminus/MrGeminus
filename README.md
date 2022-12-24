@@ -6,9 +6,7 @@
 <a href="https://twitter.com/MrGeminus"><img alt="Twitter Followers" src="https://img.shields.io/twitter/follow/mrgeminus?color=blue&label=FOLLOWERS&logo=Twitter&logoColor=white&style=for-the-badge"/></a>
 </p>
 
-
 # Hi there :wave:
-
 
 thanks for stopping by! My name is Uroš. I'm a passionate web developer who loves exploring new tech stacks and leveraging them to build cool stuff.
 
@@ -60,25 +58,26 @@ Stats of which I'm most proud.
 
 <picture>
 <source 
-srcset="https://github-readme-stats.vercel.app/api?username=MrGeminus&show_icons=true&custom_title=MrGeminus's GitHub Stats&theme=mrgeminus_dark&icon_color=1565C0&ring_color=1565C0&include_all_commits=true&count_private=true&border_radius=0"
+srcset="https://github-readme-stats.vercel.app/api?username=MrGeminus&show_icons=true&custom_title=MrGeminus's GitHub Stats&title_color=C9D1D9&icon_color=1565C0&text_color=C9D1D9&bg_color=0D1117&border_color=30363D&include_all_commits=true&count_private=true"
   media="(prefers-color-scheme: dark)"
   >
 <source
-srcset="https://github-readme-stats.vercel.app/api?username=MrGeminus&show_icons=true&custom_title=MrGeminus's GitHub Stats&theme=mrgeminus_light&icon_color=1565C0&ring_color=1565C0&include_all_commits=true&count_private=true&border_radius=0"
+srcset="https://github-readme-stats.vercel.app/api?username=MrGeminus&show_icons=true&custom_title=MrGeminus's GitHub Stats&title_color=24292F&icon_color=1565C0&text_color=24292F&bg_color=FFFFFF&border_color=D0D7DE&include_all_commits=true&count_private=true"
 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 >
-<img height="175px" src="https://github-readme-stats.vercel.app/api?username=MrGeminus&show_icons=true&custom_title=MrGeminus's GitHub Stats&icon_color=1565C0&ring_color=1565C0&include_all_commits=true&count_private=true&border_radius=0" >
+<img height="175px" src="https://github-readme-stats.vercel.app/api?username=MrGeminus&show_icons=true&custom_title=MrGeminus's GitHub Stats&include_all_commits=true&count_private=true" >
 </picture>
+
 <picture>
 <source 
-srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGeminus&layout=compact&langs_count=9&border_radius=0&theme=mrgeminus_dark&card_width=379"
+srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGeminus&layout=compact&langs_count=9&card_width=379&title_color=C9D1D9&icon_color=1565C0&text_color=C9D1D9&bg_color=0D1117&border_color=30363D"
   media="(prefers-color-scheme: dark)"
 >
 <source
-srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGeminus&layout=compact&langs_count=9&border_radius=0&theme=mrgeminus_light&card_width=379"
+srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGeminus&layout=compact&langs_count=9&card_width=379&title_color=24292F&icon_color=1565C0&text_color=24292F&bg_color=FFFFFF&border_color=D0D7DE"
 media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 >
-<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGeminus&layout=compact&langs_count=9&border_radius=0&card_width=379" >
+<img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGeminus&layout=compact&langs_count=9&card_width=379" >
 </picture>
 
 ## :clipboard: ToDo List 2022
@@ -87,7 +86,7 @@ I have a lot of plans for 2022, but some of the most notable would be:
 
 - Update old repositories
 - Redesign the old portfolio website
-- Write a few blogs and make a few youtube videos 
+- Write a few blogs and make a few youtube videos
 - Learn GraphQL, Docker, and potentially Laravel
 - Get better at what I already know ✔️
 - Contribute to some open-source projects ✔️
@@ -95,7 +94,7 @@ I have a lot of plans for 2022, but some of the most notable would be:
 ## :mailbox: Contact
 
 I would be glad to hear from you. Please feel free to contact me using one of the methods below.
-  
+
 [![Website](./icons/globe-dark.svg)](https://www.mrgeminus.com#gh-light-mode-only)
 [![Website](./icons/globe-light.svg)](https://www.mrgeminus.com#gh-dark-mode-only)
 &nbsp;&nbsp;
